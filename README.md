@@ -1,4 +1,4 @@
-# _Pig Latin_
+# _Pig Latin Encrypter_
 
 #### By _**Bill Klinkow**_
 
